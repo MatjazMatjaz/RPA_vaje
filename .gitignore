@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Vaja_GIT/.vs/Vaja_GIT
+/Vaja_GIT/Vaja_GIT/bin/Debug/net8.0
+/Vaja_GIT/Vaja_GIT/obj
